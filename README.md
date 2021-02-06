@@ -27,3 +27,4 @@ npm install --save prop-types
 ## 더 구현해야 할 사항
 - css grid를 이용하여 layout 만들기
 [참고할 디자인](https://dribbble.com/shots/2442798/attachments/2442798-Movie-Application?mode=media)
+- react-router-dom을 사용하여 navigation구현
